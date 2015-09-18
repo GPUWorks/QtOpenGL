@@ -1,4 +1,4 @@
-# QtOpenGL
+# QtOpenGL (http://www.trentreed.net/)
 A sample application which implements several advanced OpenGL rendering routines.
 Mostly this exists as a playground for OpenGL 3.3+ and OpenGL ES 3.0+.
 
