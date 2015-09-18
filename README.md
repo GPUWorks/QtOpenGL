@@ -14,4 +14,4 @@ ability, attempted to keep the tutorial-series branch relatively simple. But I h
 I didn't sense that there was a strong demand past getting OpenGL up-and-running. After you have a Qt5+ project with
 OpenGL rendering, it's basically an OpenGL playground at that point. Whether you're working in Qt or not, you should
 be able to implement any OpenGL functionality.
-(http://www.trentreed.net/)
+(http://www.trentreed.net/topics/opengl/)
